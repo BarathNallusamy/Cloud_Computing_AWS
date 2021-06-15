@@ -67,4 +67,4 @@ server {
 
 
 AWS Diagram
-![img](aws_diagram.png)
+![img](https://github.com/BarathNallusamy/Cloud_Computing_AWS/blob/be148045f043e7fbdb9c9f938176da533d99d71e/images/Cloud_computing.jpg)
